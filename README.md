@@ -1,7 +1,5 @@
 # 🧬 OncoRisk AI — Breast Cancer Malignancy Prediction System
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Framework-FastAPI-green.svg" alt="Framework">
@@ -11,7 +9,6 @@
   <img src="https://img.shields.io/badge/Deployed-AWS-ff9900.svg" alt="AWS">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
-
 
 ## 📖 Project Overview
 
